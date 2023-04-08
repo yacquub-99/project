@@ -1,0 +1,70 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.row{
+    display: flex;
+}
+.section2{
+    text-align: center;
+
+}
+.section2 h1{
+    color: blue;
+}
+.row{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.row .col h2{
+    color: blue;
+}
+.row .col i{
+    width: 50px;
+    flex-basis: 32%;
+    text-align: center;
+}
+
+
+.section4 h2{
+    text-align: center;
+    color: blue;
+    border-bottom: 50%;
+    width: 30px:
+}
+.section4 .row{
+    display: flex;
+
+}
+.section4 .row img {
+    width: 45%;
+}
+
+.section5{
+    text-align: center;
+}
+..section5 h2{
+    color: blue;
+}
+
+.head-main{
+    color: blue;
+}
+.gmail{
+    color: brown;
+}
+.section5 i{
+    width: 5%;
+}
+
+.copy{
+    text-align: center;
+    background-color: grey;
+    background-size: 80px;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    color: white;
+}
+.body{
+    margin: 0;
+}
